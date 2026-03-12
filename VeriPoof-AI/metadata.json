@@ -1,0 +1,5 @@
+{
+  "name": "Digital Evidence Tampering Detection System",
+  "description": "An AI-powered prototype to detect digital image tampering and verify evidence integrity.",
+  "requestFramePermissions": []
+}
